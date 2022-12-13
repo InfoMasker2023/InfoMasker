@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/119783198/205666947-fe57e5ef-06f9-4714
 
 https://user-images.githubusercontent.com/119783198/205666970-e895c58c-a7ac-4938-892c-854e6d860c97.mp4
 
-#### ours noise enhenced(SNR=0)
+#### ours noise enhanced(SNR=0)
 
 https://user-images.githubusercontent.com/119783198/205695852-33616c44-f3f7-4f43-bc85-816232671bc9.mp4
 
