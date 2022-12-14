@@ -2,6 +2,7 @@
 This folder contains codes and tools that are needed for generating our noise.
 
 To generate the noise, you need to:
+1. Install required packages listed in requirements.txt
 1. Download a dataset and put it in the *phoneme_data_example* folder. Here we use LibriSpeech as an example. For other datasets, you need to modify relevant codes according to the file structure of the dataset.
 2. Extract the phoneme data of the dataset using a forced-aligner. Here we use Prosodylab-Aligner as an example.
 3. Run the code *our_noise.py* to generate noise for a specific person in the dataset.
