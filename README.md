@@ -7,4 +7,5 @@ We also provide audio samples generated in digital domain and samples recorded i
 ![Overview of InfoMasker](images/introduction.png "Overview of InfoMasker")
 
 Codes in *code* folder are used for noise generation in digital domain.
+
 Codes in *matlab_code* folder are used for noise compensation and modulation for real-world scenarios.
